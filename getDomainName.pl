@@ -11,5 +11,5 @@ my $decoded_json = decode_json($content);
 foreach $s (@{$decoded_json->{response}{domains}})#yeah it could be done in another way but whatever
 	{
 		print($s,"\n");
-		`nslookup $s`;
+		#`nslookup $s`;
 	}
