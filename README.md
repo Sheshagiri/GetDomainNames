@@ -1,5 +1,6 @@
 GetDomainNames
 ==============
+<pre>
 Run this Perl Script with an augument(ip address or a domain name) and it will ouput all the domains running on that
 ip address.
 
@@ -42,3 +43,4 @@ youtu.be
 youtube-nocookie.com
 youtube.com
 youtube.ng
+</pre>
